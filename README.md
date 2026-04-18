@@ -63,3 +63,6 @@ Messages need to be routed based on type - mock
 ## Error handling
 - invalid rqst -> 400
 - (?)
+
+## API docs
+`http://localhost:2137/swagger-ui/index.html`

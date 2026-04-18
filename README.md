@@ -1,4 +1,5 @@
 # MessageProcessingService
+NOTE: not vibe coded.
 
 ## Goal
 The application will simulate a simple message processing 

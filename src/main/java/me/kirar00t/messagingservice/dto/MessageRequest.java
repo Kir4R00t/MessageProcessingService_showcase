@@ -1,5 +1,8 @@
 package me.kirar00t.messagingservice.dto;
 
+import jakarta.validation.Valid;
+import jakarta.validation.constraints.NotNull;
+
 public class MessageRequest {
     private String type;
     private Double amount;
